@@ -1,5 +1,5 @@
 # Design Patterns practice
-Implementation of common Design Patterns <br>
+Implementation of some common Design Patterns <br>
 
 ## Implemented Patterns
 
