@@ -1,5 +1,5 @@
 # Design Patterns practice
-Implementation of common Design Patterns
+Implementation of common Design Patterns <br>
 
 ## Implemented Patterns
 
@@ -30,3 +30,6 @@ Implementation of common Design Patterns
 <p>:black_square_button: Strategy</p>
 <p>:black_square_button: Template Method</p>
 <p>:black_square_button: Visitor</p>
+
+## References
+Detailed Info in Book <a href="https://refactoring.guru/ru/design-patterns" target="_blank">"Dive Into Design Patterns"</a>
