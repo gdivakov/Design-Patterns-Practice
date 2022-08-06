@@ -1,5 +1,5 @@
 # Design Patterns Practice
-Implementation of some common Design Patterns <br>
+Implementation of some common Design Patterns in C++<br>
 
 ## Implemented Patterns
 
