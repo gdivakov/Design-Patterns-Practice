@@ -13,8 +13,8 @@ Implementation of some common Design Patterns in C++<br>
 ### Structural
 <p>:white_check_mark: Adapter</p>
 <p>:white_check_mark: Bridge</p>
-<p>:black_square_button: Composite</p>
-<p>:black_square_button: Decorator</p>
+<p>:white_check_mark Composite</p>
+<p>:white_check_mark Decorator</p>
 <p>:black_square_button: Facade</p>
 <p>:black_square_button: Flyweight</p>
 <p>:black_square_button: Proxy</p>
