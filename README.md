@@ -17,7 +17,7 @@ Implementation of some common Design Patterns in C++<br>
 <p>:white_check_mark: Decorator</p>
 <p>:white_check_mark: Facade</p>
 <p>:white_check_mark: Flyweight</p>
-<p>:black_square_button: Proxy</p>
+<p>:white_check_mark: Proxy</p>
 
 ### Behavioral
 <p>:black_square_button: Chain of Responsibility</p>
