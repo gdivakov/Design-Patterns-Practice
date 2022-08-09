@@ -20,7 +20,7 @@ Implementation of some common Design Patterns in C++<br>
 <p>:white_check_mark: Proxy</p>
 
 ### Behavioral
-<p>:black_square_button: Chain of Responsibility</p>
+<p>:white_check_mark: Chain of Responsibility</p>
 <p>:black_square_button: Command</p>
 <p>:black_square_button: Iterator</p>
 <p>:black_square_button: Mediator</p>
